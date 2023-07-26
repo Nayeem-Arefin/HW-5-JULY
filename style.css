@@ -8,7 +8,7 @@ button {display: inline-block;}
 	background-color: grey;
 }
 .wrapperfirst{
-	/*overflow: hidden; */
+ overflow: hidden; 
 }
 .blog{
 	height: 200px;
