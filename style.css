@@ -5,7 +5,7 @@ button {display: inline-block;}
 
 .header {
 	height: 100px;
-	background-color: grey;
+	background-color: darkblue;
 }
 .wrapperfirst{
  overflow: hidden; 
