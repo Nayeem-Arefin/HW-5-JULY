@@ -7,25 +7,28 @@ button {display: inline-block;}
 	height: 100px;
 	background-color: darkblue;
 }
+
 .wrapperfirst{
- overflow: hidden; 
+	overflow: hidden; 
 }
 .blog{
 	height: 200px;
 	background-color: grey;
-      width: 70%;  
-      float: left; 
+      width: 80%;  
+      float: left;
+
+       
 }
 .connections {
 	height: 300px;
 	background-color: blueviolet;
-width: 30% ;
+width: 20% ;
 float: right;
 border-left: 5px solid black ;
 box-sizing: border-box ;
 }
+
 .footer {
-	clear:both;
-	height: 100px;
-	background-color: black;
+	height: 300px;
+	background: black;
 }
