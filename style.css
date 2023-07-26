@@ -13,14 +13,14 @@ button {display: inline-block;}
 }
 .blog{
 	height: 200px;
-	background-color: grey;
+	background-color: cyan;
       width: 80%;  
       float: left;
 
        
 }
 .connections {
-	height: 300px;
+	height: 200px;
 	background-color: blueviolet;
 width: 20% ;
 float: right;
